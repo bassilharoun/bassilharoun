@@ -1,14 +1,14 @@
 # Hi, I am Bassil Haroun ❤️
 ![280737428_1561620800905998_1666362953007315625_n](https://user-images.githubusercontent.com/81447239/174095460-c72e414c-0612-4184-8b46-bee5873ee6a0.jpg)
 
-## I am a Computer Sceince Student 🖥️ and a Mobile Application developer | GDSC Coreteam , Free lancer, GDG 6 October Leader and more...
+## I am a Computer Sceince Student 🖥️ and a Mobile Application developer | GDSC Coreteam and more...
 
 I am learning with passion, especially Flutter, I have already completed two projects using Flutter "blood donation app", and an application to participate in the Google Solution challenge "YourSpace", I have a high skill in research and problem solving, I have great experience in (data structure, oop, problem-solving, 
 # I have great experience in (data structure, oop, problem-solving, system analysis and design)
 
-- 🔭 I’m currently Learning Kotlin 
-- 🌱 I’m currently work on myself in Flutter
-- 📝 Looking For Internship
+- 🔭 Have Good experience about Mobile Development using ("Flutter" , "Kotlin") and still learning
+- 🌱 I Have Great experience about (OOP - data structure - problem-solving - system analysis and design)
+- 📝 Currently I'am Looking For Internship
 - 📫 How to reach me: catch, and follow me from the footer links below 👇 in addition to follow me here.
 - ⚡ Fun fact: i Love 💸 🖥️ 🍤 🎨 🎧 🎬  ✈️ 💻 📱 📸  
 -->
@@ -34,7 +34,8 @@ I am learning with passion, especially Flutter, I have already completed two pro
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<img src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social"/>
+
 
 #### Frameworks  i am using :
 <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
