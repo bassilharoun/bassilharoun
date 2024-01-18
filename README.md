@@ -1,25 +1,25 @@
 # Hi, I am Bassil Haroun ❤️
 ![280737428_1561620800905998_1666362953007315625_n](https://user-images.githubusercontent.com/81447239/174095460-c72e414c-0612-4184-8b46-bee5873ee6a0.jpg)
 
-## I am a Computer Sceince Student 🖥️ and a Mobile Application developer | GDSC Coreteam and more...
+## Software Engeneer 🖥️ and a Mobile Application developer | Google Developer Group Coreteam and more...
 
-I am learning with passion, especially Flutter, I have already completed two projects using Flutter "blood donation app", and an application to participate in the Google Solution challenge "YourSpace", I have a high skill in research and problem solving, I have great experience in (data structure, oop, problem-solving, 
-# I have great experience in (data structure, oop, problem-solving, system analysis and design)
+I am learning with passion, especially Flutter, I have a high skill in research and problem solving,
+# I have great experience in (data structure, oop, problem-solving, system analysis and design, software engeering)
 
 - 🔭 Have Good experience about Mobile Development using ("Flutter" , "Kotlin") and still learning
 - 🌱 I Have Great experience about (OOP - data structure - problem-solving - system analysis and design)
 - 📝 Currently I'am Looking For Internship
 - 📫 How to reach me: catch, and follow me from the footer links below 👇 in addition to follow me here.
-- ⚡ Fun fact: i Love 💸 🖥️ 🍤 🎨 🎧 🎬  ✈️ 💻 📱 📸  
+- ⚡ Fun fact: i Love 🖥️ 🍤 🎨 🎧 🎬  ✈️ 💻 📱 📸  
 -->
 <details>
   <summary>Some interesting facts about me!</summary>
   <br>
 
 
-  - While Coding, Listening Music and developing useful code. ⭐️
+  - While Coding, Listening Qur'an and developing useful code. ⭐️
 
-  - Watchin Youtube, Reading Books, Action, Comics,scientific Fiction, Romance.
+  - Watchin Youtube, Reading Books, Action, Comics,scientific Fiction.
 
   - Learning programming and getting knowledge about Android & Data science.
 
