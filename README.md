@@ -4,7 +4,7 @@
 ## Software Engineer 🖥️ and a Mobile Application developer | Google Developer Group Coreteam and more...
 
 I am learning with passion, especially Flutter, I have a high skill in research and problem solving,
-# I have great experience in (data structure, oop, problem-solving, system analysis and design, software engeering)
+# I have great experience in (data structure, oop, problem-solving, system analysis and design, software engineering)
 
 - 🔭 Have Good experience about Mobile Development using ("Flutter" , "Kotlin") and still learning
 - 🌱 I Have Great experience about (OOP - data structure - problem-solving - system analysis and design)
